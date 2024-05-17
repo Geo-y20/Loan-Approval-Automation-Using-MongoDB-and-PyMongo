@@ -1,7 +1,3 @@
-Here's the updated README file without the code snippets, tailored to match the content and context of your project as described in the PowerPoint presentation:
-
----
-
 # Loan Approval Automation Using MongoDB and PyMongo
 
 This project demonstrates the implementation of a loan approval system that utilizes MongoDB for distributed data storage and management, and PyMongo for database operations. The project aims to automate the assessment of loan eligibility using customer details from online applications.
