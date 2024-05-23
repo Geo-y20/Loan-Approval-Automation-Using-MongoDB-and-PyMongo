@@ -80,9 +80,6 @@ The trained machine learning model is deployed as a web application using Stream
 - **Pandas**: Data manipulation and analysis library.
 - **Matplotlib and Seaborn**: Libraries for data visualization.
 
-## Team Member 
-- George Youhana
-- Sawsan Kassem
 # sample of website
 <img src="sample 1.png" />
 <img src="sample 2.png" />
